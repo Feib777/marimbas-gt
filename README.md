@@ -95,7 +95,7 @@
   </section>
 
   <section class="imagenes-marimba">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Marimba.jpg" alt="Marimba tradicional">
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/6/6f/Marimba.jpg" alt="Marimba tradicional](https://aprende.guatemala.com/wp-content/uploads/2017/02/Cu%C3%A1ndo-se-celebra-el-d%C3%ADa-de-la-Marimba-en-Guatemala%C3%A7.jpg)">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Marimba_band.jpg" alt="Banda de marimba">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Marimba_player_in_Guatemala.jpg" alt="Músico con marimba">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Marimba_in_Guatemala.jpg" alt="Marimba en escenario">
